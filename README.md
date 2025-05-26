@@ -2,9 +2,6 @@
 
 > **A lightweight Unix-like shell developed in C as part of a systems programming project.**
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/ton-pseudo/mini-shell-project )
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg )](https://opensource.org/licenses/MIT )
-
 ---
 
 ## 📌 Table of Contents
