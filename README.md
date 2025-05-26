@@ -8,9 +8,10 @@
 
 - [🔧Features](#features)
 - [📁Installation](#installation)
-- [Usage](#usage)
+- [🚀Usage](#usage)
 - [📷Screenshots](#screenshots)
-
+- [🚀Learning Objectives](#learningobjectives)
+- [👤 Author](#author)
 
 ---
 
@@ -37,19 +38,29 @@ cd mini-shell-project
 make
 4.Run the shell :
 ./am_shell
-# Usage:
+## 🚀 Usage:
 Once launched , i could use commands similar to a standard shell:
 myshell$ ls
 myshell$ pwd
 myshell$ echo "Hello from my shell!"
 myshell$ cd ..
 myshell$ exit
-# 📷 ScreenShot : 
+## 📷 ScreenShot : 
 <img width="695" alt="image" src="https://github.com/user-attachments/assets/a20f5148-d766-49b7-ad7f-bd692275d375" />
 
 <img width="660" alt="image" src="https://github.com/user-attachments/assets/680d2eaa-61aa-47e4-83bb-664c591c346a" />
 
 <img width="573" alt="image" src="https://github.com/user-attachments/assets/75006dc1-0deb-40c8-a155-e162834634b4" />
+
+## 🚀Learning Objectives:
+1.Understand how a Unix shell works internally.
+2.Practice using low-level system calls like fork, execvp, and wait.
+3.Strengthen programming skills in C and Linux system development.
+## 👤 Author :
+1. Name : Aya El Menouali
+2. Academic level : first year Data and software engineering student
+3. context : Project (using C/Linux) in the systems programming subject by the Pr.Bouchal Anouar
+ 
 
 
 
