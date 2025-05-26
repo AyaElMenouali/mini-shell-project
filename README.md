@@ -6,10 +6,10 @@
 
 ## 📌 Table of Contents
 
-- [Features](#🔧features)
-- [Installation](#📁installation)
+- [🔧Features](#features)
+- [📁Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#📷screenshots)
+- [📷Screenshots](#screenshots)
 
 
 ---
